@@ -1,0 +1,69 @@
+.signup-form-btn {
+  background-color: blue;
+  background-color: #006091e7;
+}
+
+.signup-bottom-text {
+  text-align: center;
+}
+.signup-bottom-text-one,
+.signup-bottom-text-two {
+  margin-top: 15px;
+}
+.signup-bottom-text-two {
+  color: #0673aa;
+}
+
+.signup-create-an-acct {
+  color: #0673aa;
+}
+.signup-form-submit-btn {
+  margin-top: 25px;
+}
+.signup-form-password-field {
+  display: flex;
+  flex-direction: row;
+}
+.signup-form-input {
+  width: 100%;
+}
+.signup-label {
+  margin: auto;
+  /* width: 10%; */
+  /* padding: 10px; */
+  position: absolute;
+  top: 100px;
+  left: 89%;
+  z-index: 100;
+  font-size: 11px;
+  cursor: pointer;
+}
+.signup-label-icon {
+  margin-top: 84px;
+}
+.signup-to-your-acc {
+  font-size: 39px;
+  height: 80px;
+  width: 100%;
+  margin-bottom: 25px;
+  line-height: 1;
+  color: purple;
+  background: #0365a6;
+  background: -webkit-radial-gradient(
+    ellipse farthest-corner at center center,
+    #0365a6 0%,
+    #cd43f0 76%
+  );
+  background: -moz-radial-gradient(
+    ellipse farthest-corner at center center,
+    #0365a6 0%,
+    #cd43f0 76%
+  );
+  background: radial-gradient(
+    ellipse farthest-corner at center center,
+    #0365a6 0%,
+    #cd43f0 76%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

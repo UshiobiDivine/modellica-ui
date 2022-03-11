@@ -1,0 +1,8 @@
+.sweeter-loading {
+  height: 100%;
+  width: 100%;
+  background-color: #000000be;
+  /* backdrop-filter: blur(1px); */
+  z-index: 10000;
+  position: absolute;
+}

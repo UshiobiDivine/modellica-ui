@@ -1,0 +1,69 @@
+.login-form-btn {
+  background-color: blue;
+  background-color: #006091e7;
+}
+
+.bottom-text {
+  text-align: center;
+}
+.bottom-text-one,
+.bottom-text-two {
+  margin-top: 15px;
+}
+.bottom-text-two {
+  color: #0673aa;
+}
+
+.create-an-acct {
+  color: #0673aa;
+}
+.login-form-submit-btn {
+  margin-top: 25px;
+}
+.login-form-password-field {
+  display: flex;
+  flex-direction: row;
+}
+.form-input {
+  width: 100%;
+}
+.label {
+  margin: auto;
+  /* width: 10%; */
+  /* padding: 10px; */
+  position: absolute;
+  top: 100px;
+  left: 89%;
+  z-index: 100;
+  font-size: 11px;
+  cursor: pointer;
+}
+.label-icon {
+  margin-top: 8px;
+}
+.login-to-your-acc {
+  padding-bottom: 20px;
+  width: 100%;
+  font-size: 30px;
+  margin-bottom: 35px;
+  line-height: 1;
+  color: purple;
+  background: #0365a6;
+  background: -webkit-radial-gradient(
+    ellipse farthest-corner at center center,
+    #0365a6 0%,
+    #cd43f0 76%
+  );
+  background: -moz-radial-gradient(
+    ellipse farthest-corner at center center,
+    #0365a6 0%,
+    #cd43f0 76%
+  );
+  background: radial-gradient(
+    ellipse farthest-corner at center center,
+    #0365a6 0%,
+    #cd43f0 76%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
